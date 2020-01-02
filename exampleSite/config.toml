@@ -1,5 +1,5 @@
 baseURL = "https://selezionenazionalepiloti.netlify.com"
-defaultContentLanguage = "en"
+defaultContentLanguage = "it"
 defaultContentLanguageInSubdir = true
 disableLanguages = []
 disqusShortname = ""
