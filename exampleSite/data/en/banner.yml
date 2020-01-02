@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: false
+  enable: true
   bg_Image: images/slider/hero-area.jpg
   icon: ''
   title: Selezione Nazionale Piloti
