@@ -1,4 +1,4 @@
-baseURL = "https://snp.netlify.com"
+baseURL = "https://selezionenazionalepiloti.netlify.com"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 disableLanguages = []
